@@ -1,0 +1,12 @@
+; Engine configuration file.
+
+config_version=5
+
+[application]
+
+config/name="Spaghetti Meter"
+config/features=PackedStringArray("4.4")
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/spaghetti_meter/plugin.cfg")
